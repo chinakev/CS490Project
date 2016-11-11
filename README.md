@@ -1,2 +1,2 @@
-# NJIT
-NJIT Projects
+# NJIT CS341 Project1
+DFA
