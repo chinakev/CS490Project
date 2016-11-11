@@ -1,17 +1,12 @@
-/*
-Kevin Chan
-kkc22
-*/
-
 package project1;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class p1_16f_kkc22 {
+public class dfaCode {
     
     public static void main(String[] args) throws IOException{
-        p1_16f_kkc22 p1 = new p1_16f_kkc22();
+        dfaCode p1 = new dfaCode();
         Scanner scanner = new Scanner(System.in);
         String answer;
         String input;
